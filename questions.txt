@@ -1,0 +1,4 @@
+0. 3x3, 9x9 5x5
+1. An integer type
+2. greet();
+3. I need to implement a function to initialize the board(init)(draw), to move the pieces (move), and to determine whether the game was won(won)
